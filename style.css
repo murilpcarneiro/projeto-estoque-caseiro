@@ -70,12 +70,17 @@ h1 {
 }
 
 .qtde {
-  border-style: none;
+  border: solid black 1px;
   background-color: #f9f9f9;
-
+  width: 40px;
 }
 
 .conjuntoAdicionar {
   display: flex;
   justify-content: space-between;
+}
+
+.tiposMedida {
+  border: solid black 1px;
+  background-color: #f9f9f9;
 }
